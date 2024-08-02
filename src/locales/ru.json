@@ -1,0 +1,32 @@
+{
+  "navbar_top": {
+    "city": "Город",
+    "deliveryPoint": "Пункт доставки",
+    "deliver": "Мы доставим ваш заказ бесплатно за 1 день!",
+    "question": "вопрос-ответ",
+    "order": "мои заказы"
+  },
+  "navbar_bottom": {
+    "menu": "Каталог",
+    "search": "Поиск товаров",
+    "login": "Войти",
+    "LikePage": "Избранное",
+    "Shop": "Корзина"
+  },
+  "footer": {
+    "aboutUs": "О нас",
+    "deliveryPoints": "Пункты доставки",
+    "vacancies": "Вакансии",
+    "contactUs": "Связаться с нами",
+    "faq": "Часто задаваемые вопросы",
+    "sellOnUzum": "Продавайте на Uzum",
+    "sellerLogin": "Вход в кабинет продавца",
+    "downloadApp": "Скачать приложение",
+    "appStore": "AppStore",
+    "playStore": "PlayMarket",
+    "socialNetworks": "Социальные сети Uzum",
+    "privacyPolicy": "Политика конфиденциальности",
+    "termsOfUse": "Условия использования",
+    "copyright": "«2024© XK MCHJ «UZUM MARKET». ИНН 309376127. Все права защищены»"
+  }
+}

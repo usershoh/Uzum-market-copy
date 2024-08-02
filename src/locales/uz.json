@@ -1,0 +1,32 @@
+{
+  "navbar_top": {
+    "city": "Shahar",
+    "deliveryPoint": "Topshirish punkti",
+    "deliver": "Buyurtmangizni 1 kunda bepul yetkazib beramiz!",
+    "question": "savol-javob",
+    "order": "buyurtmalarim"
+  },
+  "navbar_bottom": {
+    "menu": "Katalog",
+    "search": "Mahsulotlar izlash",
+    "login": "Kirish",
+    "LikePage": "Saralanganlar",
+    "Shop": "Savat"
+  },
+  "footer": {
+    "aboutUs": "Biz haqimizda",
+    "deliveryPoints": "Topshirish punktlari",
+    "vacancies": "Vakansiyalar",
+    "contactUs": "Biz bilan bogʻlanish",
+    "faq": "Savol-Javob",
+    "sellOnUzum": "Uzumda soting",
+    "sellerLogin": "Sotuvchi kabinetiga kirish",
+    "downloadApp": "Ilovani yuklab olish",
+    "appStore": "AppStore",
+    "playStore": "PlayMarket",
+    "socialNetworks": "Uzum ijtimoiy tarmoqlar",
+    "privacyPolicy": "Maxfiylik kelishuvi",
+    "termsOfUse": "Foydalanuvchi kelishuvi",
+    "copyright": "«2024© XK MCHJ «UZUM MARKET». STIR 309376127. Barcha huquqlar himoyalangan»"
+  }
+}
